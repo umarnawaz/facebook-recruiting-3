@@ -1,0 +1,13 @@
+
+mypersonal=# select count(*) from body_duplicates;
+  count  
+---------
+ 1453281
+(1 row)
+
+mypersonal=# select count(*) from title_duplicates;
+  count  
+---------
+ 1489700
+(1 row)
+
